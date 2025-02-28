@@ -48,8 +48,6 @@ After creating your account:
 
 ### Main Dashboard
 
-![Dashboard Overview](https://via.placeholder.com/800x450?text=Dashboard+Overview)
-
 The main dashboard is divided into several sections:
 
 1. **Navigation Bar**: Access all major features and sections
