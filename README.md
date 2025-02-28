@@ -15,7 +15,7 @@ This application implements a modern microservices architecture with the followi
 - **ETL Pipeline**: Data transformation and analytics using AWS Glue
 - **Monitoring**: Comprehensive CloudWatch dashboards and alerting
 
-![Architecture Diagram][([[(https://github.com/Hemanth1101/AWS-for-Gaming/blob/main/pubg_architecture.drawio.jpg)]](https://github.com/Hemanth1101/AWS-for-Gaming/blob/main/pubg_architecture.drawio.jpg))](https://github.com/Hemanth1101/AWS-for-Gaming/blob/main/pubg_architecture.drawio.jpg)
+![Architecture Diagram] https://github.com/Hemanth1101/AWS-for-Gaming/blob/main/pubg_architecture.drawio.jpg
 
 ## Prerequisites
 
