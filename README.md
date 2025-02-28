@@ -95,7 +95,7 @@ npm run deploy:prod
 
 ## Documentation
 
-- [API Documentation]([docs/api/README.md](https://github.com/Hemanth1101/AWS-for-Gaming/blob/main/Architecture%20Details))
+- [API Documentation](https://github.com/Hemanth1101/AWS-for-Gaming/blob/main/Architecture%20Details))
 - [User Guide](docs/user-guides/README.md)
 - [Architecture Details](docs/architecture/README.md)
 
