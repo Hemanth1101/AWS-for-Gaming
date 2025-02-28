@@ -1,4 +1,4 @@
-# Cloud-Native SaaS Application
+# AWS Architecture for GAMING
 
 This repository contains a complete implementation of a cloud-native SaaS application built on AWS serverless architecture.
 
@@ -15,7 +15,7 @@ This application implements a modern microservices architecture with the followi
 - **ETL Pipeline**: Data transformation and analytics using AWS Glue
 - **Monitoring**: Comprehensive CloudWatch dashboards and alerting
 
-![Architecture Diagram](docs/architecture/architecture-diagram.png)
+![Architecture Diagram]([docs/architecture/architecture-diagram.png](https://github.com/Hemanth1101/AWS-for-Gaming/blob/main/pubg_architecture.drawio.jpg))
 
 ## Prerequisites
 
