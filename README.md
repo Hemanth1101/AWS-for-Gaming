@@ -98,6 +98,7 @@ npm run deploy:prod
 - [API Documentation](api-documentation.md)
 - [User Guide](user-guide.md)
 - [Architecture Details](architecture-details.md)
+- [Architecture Components](architecture-components.md)
 
 ## Security
 
