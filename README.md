@@ -13,7 +13,7 @@ This application implements a modern microservices architecture with the followi
 - **Security**: WAF protection, KMS encryption, and IAM-based access control
 - **Payment Processing**: Integration with PayPal for subscription management
 - **ETL Pipeline**: Data transformation and analytics using AWS Glue
-- **Monitoring**: Comprehensive CloudWatch dashboards and alerting
+- **Monitoring**: Comprehensive CloudWatch dashboards and alerting.
 
 ![Architecture Diagram](pubg_architecture.drawio.jpg)
 
