@@ -1,4 +1,4 @@
-# AWS Architecture for GAMING
+ # AWS Architecture for GAMING
 
 This repository contains a complete implementation of a cloud-native SaaS application built on AWS serverless architecture.
 
